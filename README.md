@@ -88,11 +88,14 @@ The analysis combines **Python, SQL, and Power BI** to understand price trends, 
 * RSI & MACD indicators
 * 52-week high/low tracking
 
-  ##dashboard screenshots
-crude oil and natural gas technical indicators.png
-crude oil and natural gas.png
+ ## Dashboard Preview
 
----
+### Price Trend Analysis
+Price Trend-(images/price_trend.png)
+
+### Technical Indicators (RSI, MACD)
+Technical Indicators -(images/technical_indicators.png)
+
 
 ##  Business Impact
 
